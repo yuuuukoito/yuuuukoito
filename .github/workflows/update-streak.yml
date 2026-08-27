@@ -1,0 +1,27 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Latest Streak Stats SVG
+        run: |
+          curl -s -L "https://streak-stats.demolab.com/?user=yuuuukoito&theme=dark&hide_border=true&background=0d1117" -o assets/streak.svg
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update streak stats" && git push)

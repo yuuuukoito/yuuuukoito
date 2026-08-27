@@ -63,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yuuuukoito&theme=dark&hide_border=true&background=0d1117" alt="yuuuukoito Streak Stats" />
+  <img src="./assets/streak.svg" alt="yuuuukoito Streak Stats" />
 </p>
 
 ---
