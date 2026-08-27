@@ -60,7 +60,10 @@
 </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-</a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yuuuukoito&theme=dark&hide_border=true&background=0d1117" alt="yuuuukoito Streak Stats" />
 </p>
 
 ---
