@@ -94,7 +94,8 @@
   <rect x="308" y="252" width="56" height="56" fill="#b58863"/>
   <rect x="364" y="252" width="56" height="56" fill="#f0d9b5"/>
   <rect x="420" y="252" width="56" height="56" fill="#b58863"/>
-  <rect x="28" y="308" width="56" height="56" fill="#b58863"/>
+  <rect x="28" y="308" width="56" height="56" fill="#aaa23a"/>
+  <text x="56" y="336" class="piece piece-w">♙</text>
   <rect x="84" y="308" width="56" height="56" fill="#f0d9b5"/>
   <rect x="140" y="308" width="56" height="56" fill="#b58863"/>
   <rect x="196" y="308" width="56" height="56" fill="#f0d9b5"/>
@@ -102,8 +103,7 @@
   <rect x="308" y="308" width="56" height="56" fill="#f0d9b5"/>
   <rect x="364" y="308" width="56" height="56" fill="#b58863"/>
   <rect x="420" y="308" width="56" height="56" fill="#f0d9b5"/>
-  <rect x="28" y="364" width="56" height="56" fill="#f0d9b5"/>
-  <text x="56" y="392" class="piece piece-w">♙</text>
+  <rect x="28" y="364" width="56" height="56" fill="#cdd26a"/>
   <rect x="84" y="364" width="56" height="56" fill="#b58863"/>
   <text x="112" y="392" class="piece piece-w">♙</text>
   <rect x="140" y="364" width="56" height="56" fill="#f0d9b5"/>
