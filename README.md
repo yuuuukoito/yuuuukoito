@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  **Turn:** ⚪ White to move &nbsp;•&nbsp; Game #1 in progress &nbsp;•&nbsp; [🔄 Start New Game](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cnew%7Cgame&body=Just+click+%27Submit+new+issue%27+to+start+a+new+game.)
+  **Turn:** ⚪ White to move &nbsp;•&nbsp; Game #2 in progress &nbsp;•&nbsp; [🔄 Start New Game](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cnew%7Cgame&body=Just+click+%27Submit+new+issue%27+to+start+a+new+game.)
 </p>
 
 <details>
