@@ -34,7 +34,6 @@
 ### 💫 About Me
 ```yaml
 name: Yuu
-role: Frontend Developer & Creative Coder
 location: Indonesia 🇮🇩
 interests: Web Development, IoT & Arduino
 status: Building aesthetic digital experiences ✨
