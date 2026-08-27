@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/yuuuukoito/yuuuukoito#readme",
   "dependencies": {
-    "chess.js": "^1.4.0"
+    "@napi-rs/canvas": "^1.0.8",
+    "chess.js": "^1.4.0",
+    "gif-encoder-2": "^1.0.5"
   }
 }

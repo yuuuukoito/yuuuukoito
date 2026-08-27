@@ -69,35 +69,9 @@
 
 ---
 
-<!-- CHESS_GAME:START -->
-### ♟️ Community Chess in Profile README
+<div align="center">
+  <h3>♟️ Immortal Opera Game (1858) — Paul Morphy</h3>
+  <img src="./assets/chess-loop.gif" alt="Black and White Looping Chess Animation" width="440" />
+  <p><sub><i>Aesthetic monochrome looping replay of Paul Morphy's legendary Queen sacrifice & checkmate</i></sub></p>
+</div>
 
-<p align="center">
-  <img src="./assets/chess-board.svg" alt="GitHub Profile Chess Board" width="400"/>
-</p>
-
-<p align="center">
-  **Turn:** ⚫ Black to move &nbsp;•&nbsp; Last move: **a3** by @yuuuukoito &nbsp;•&nbsp; [🔄 Start New Game](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cnew%7Cgame&body=Just+click+%27Submit+new+issue%27+to+start+a+new+game.)
-</p>
-
-<details>
-<summary>👉 <b>Click here to view legal moves and play</b></summary>
-
-| Piece (Square) | Available Moves |
-| :--- | :--- |
-| **N (b8)** | [`Nc6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7CNc6&body=Click+%27Submit+new+issue%27+to+make+this+move.) &nbsp;•&nbsp; [`Na6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7CNa6&body=Click+%27Submit+new+issue%27+to+make+this+move.) |
-| **N (g8)** | [`Nh6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7CNh6&body=Click+%27Submit+new+issue%27+to+make+this+move.) &nbsp;•&nbsp; [`Nf6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7CNf6&body=Click+%27Submit+new+issue%27+to+make+this+move.) |
-| **P (a7)** | [`a6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Ca6&body=Click+%27Submit+new+issue%27+to+make+this+move.) &nbsp;•&nbsp; [`a5`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Ca5&body=Click+%27Submit+new+issue%27+to+make+this+move.) |
-| **P (b7)** | [`b6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Cb6&body=Click+%27Submit+new+issue%27+to+make+this+move.) &nbsp;•&nbsp; [`b5`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Cb5&body=Click+%27Submit+new+issue%27+to+make+this+move.) |
-| **P (c7)** | [`c6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Cc6&body=Click+%27Submit+new+issue%27+to+make+this+move.) &nbsp;•&nbsp; [`c5`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Cc5&body=Click+%27Submit+new+issue%27+to+make+this+move.) |
-| **P (d7)** | [`d6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Cd6&body=Click+%27Submit+new+issue%27+to+make+this+move.) &nbsp;•&nbsp; [`d5`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Cd5&body=Click+%27Submit+new+issue%27+to+make+this+move.) |
-| **P (e7)** | [`e6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Ce6&body=Click+%27Submit+new+issue%27+to+make+this+move.) &nbsp;•&nbsp; [`e5`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Ce5&body=Click+%27Submit+new+issue%27+to+make+this+move.) |
-| **P (f7)** | [`f6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Cf6&body=Click+%27Submit+new+issue%27+to+make+this+move.) &nbsp;•&nbsp; [`f5`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Cf5&body=Click+%27Submit+new+issue%27+to+make+this+move.) |
-| **P (g7)** | [`g6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Cg6&body=Click+%27Submit+new+issue%27+to+make+this+move.) &nbsp;•&nbsp; [`g5`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Cg5&body=Click+%27Submit+new+issue%27+to+make+this+move.) |
-| **P (h7)** | [`h6`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Ch6&body=Click+%27Submit+new+issue%27+to+make+this+move.) &nbsp;•&nbsp; [`h5`](https://github.com/yuuuukoito/yuuuukoito/issues/new?title=chess%7Cmove%7Ch5&body=Click+%27Submit+new+issue%27+to+make+this+move.) |
-
-
-</details>
-
-<sub>💡 <i>How to play: Click any move link above, then hit <b>"Submit new issue"</b>. GitHub Actions bot will update the board automatically in seconds!</i></sub>
-<!-- CHESS_GAME:END -->
