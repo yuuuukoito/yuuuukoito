@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" width="85%" alt="Yuu Banner">
+</p>
+
 <div align="center">
 
   # Hi 👋, I'm Yuu
@@ -121,9 +125,3 @@ status: Building aesthetic digital experiences ✨
   <img src="./assets/chess-loop.gif" alt="Black and White Looping Chess Animation" width="440" />
   <p><sub><i>Aesthetic monochrome looping replay of Paul Morphy's legendary Queen sacrifice & checkmate</i></sub></p>
 </div>
-
-<br>
-
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Yuu Banner">
-</p>
