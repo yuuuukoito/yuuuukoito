@@ -7,7 +7,7 @@
   # Hi 👋, I'm Yuu
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5A97F&center=true&vCenter=true&width=550&lines=Hello+World!+I'm+Yuu+%F0%9F%91%8B;Passionate+Frontend+Developer+%F0%9F%87%AE%F0%9F%87%A9;Building+clean+%26+aesthetic+web+apps+%E2%9C%A8;Always+learning+new+technologies+%F0%9F%9A%80;Anime+%26+Manga+Enthusiast+%F0%9F%8C%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F5A97F&center=true&vCenter=true&width=550&lines=Hello+World!+I'm+Yuu+%F0%9F%91%8B;Passionate+Frontend+Developer+%F0%9F%87%AE%F0%9F%87%A9;Building+clean+%26+aesthetic+web+apps+%E2%9C%A8;Always+learning+new+technologies+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -36,7 +36,7 @@
 name: Yuu
 role: Frontend Developer & Creative Coder
 location: Indonesia 🇮🇩
-interests: Web Development, IoT & Arduino, Anime & Chess
+interests: Web Development, IoT & Arduino
 status: Building aesthetic digital experiences ✨
 ```
 
