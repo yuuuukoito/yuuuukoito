@@ -1,25 +1,28 @@
 <div align="center">
 
-# 🛰️ Herta Space Station — Terminal Access: `YUU`
+<!-- Cosmic Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,28,49,27,100,124,58,237,168,85,247,56,189,248&height=200&section=header&text=HERTA%20SPACE%20STATION&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9C%A7%20Central%20Terminal%20%E2%80%A2%20Researcher%20Yuu%20%E2%9C%A7&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Herta Space Station Header" />
+
+### 🛰️ Station Terminal `[ID: HSS-YUU-83]`
+*"Time is running out. What experiment are we running today?" — Madame Herta*
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FE428E&center=true&vCenter=true&width=620&lines=Initializing+Herta+Space+Station+Terminal...;Station+Researcher+%7C+Frontend+%26+IoT+Engineer+%E2%9C%A8;Simulated+Universe+Protocol+Online+%F0%9F%94%AE;Exploring+the+Cosmos+through+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=A9FEF7&center=true&vCenter=true&width=620&lines=Initializing+Herta+Space+Station+Terminal...;Station+Researcher+%7C+Frontend+%26+IoT+Engineer;Simulated+Universe+Protocol+Active+%E2%9C%A8;Curio+Collection+%26+Embedded+Systems+Online;Building+aesthetic+digital+realms+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yuuuukoito&label=Station%20Access%20Count&color=141321&style=flat-square" alt="Profile Views" />
-
-<br><br>
-
-<!-- Social Badges -->
+<!-- Station Status & Social Badges -->
+<a href="https://github.com/yuuuukoito">
+  <img src="https://img.shields.io/badge/HERTA_STATION-ONLINE-7c3aed?style=for-the-badge&logo=spacex&logoColor=white" alt="Status" />
+</a>
 <a href="https://instagram.com/yuuukoito" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Comms-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
-&nbsp;
 <a href="https://discord.gg/lilyamanee._33887" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Subspace-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=yuuuukoito&label=Visitors&color=7c3aed&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -27,40 +30,43 @@
 
 ---
 
-### 💫 Station Personnel Dossier
-```yaml
-researcher: Yuu
-affiliation: Herta Space Station 🛰️
-departments: Department of Implement & Department of Insight
-location: Indonesia 🇮🇩
-interests: Frontend Architecture, Embedded Systems, IoT & Arduino
-current_mission: "Running Simulated Universe experiments & crafting aesthetic UI ✨"
+### 📂 Station Personnel Dossier
+
+```ini
+[HERTA_SPACE_STATION // ARCHIVE_RECORD_83]
+RESEARCHER      = "Yuu" (yuuuukoito)
+CLEARANCE       = "Level 4 // Special Access — Curio Collection & Master Control"
+AFFILIATION     = "Herta Space Station 🛰️"
+DEPARTMENTS     = ["Department of Implement (器具部)", "Department of Insight (求索部)"]
+COGNITIVE_PATH  = "The Erudition (智识) 🔮"
+SPECIALIZATIONS = ["Frontend Web Architecture", "IoT & Embedded Arduino Systems", "Hardware Telemetry"]
+CURRENT_STATUS  = "Calibrating Simulated Universe Blessings & Compiling Subspace Relays ✨"
+DIAGNOSTIC      = "All subsystems nominal. Ready to deploy cosmic innovations."
 ```
 
 ---
 
-### 🔮 Station Curios & Technology Arsenal
+### 🔮 Simulated Universe: Technical Curios & Blessings
 
 <div align="center">
 
-| CURIO / ELEMENT | HERTA STATION DIVISION | TECHNOLOGY ARSENAL |
-| :---: | :--- | :--- |
-| <img src="https://api.iconify.design/fluent-emoji-flat:purple-circle.svg" width="30" height="30" /><br><b>QUANTUM</b> | **Frontend & Astral UI Nexus**<br><sub>*(Simulated Universe Interface)*</sub> | [![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/) [![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) [![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) |
-| <img src="https://api.iconify.design/fluent-emoji-flat:blue-circle.svg" width="30" height="30" /><br><b>IMAGINARY</b> | **Department of Revelation**<br><sub>*(Subspace Telemetry & API Relays)*</sub> | [![Node.js](https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/EXPRESS.JS-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/) [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/) |
-| <img src="https://api.iconify.design/fluent-emoji-flat:green-circle.svg" width="30" height="30" /><br><b>ECOLOGY</b> | **Department of Ecology**<br><sub>*(Curio Data Vaults & Specimen Storage)*</sub> | [![MySQL](https://img.shields.io/badge/MYSQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![SQLite](https://img.shields.io/badge/SQLITE-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Redis](https://img.shields.io/badge/REDIS-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/) |
-| <img src="https://api.iconify.design/fluent-emoji-flat:red-circle.svg" width="30" height="30" /><br><b>PHYSICAL</b> | **Department of Implement**<br><sub>*(Machine Engineering & IoT Telemetrics)*</sub> | [![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Arduino](https://img.shields.io/badge/ARDUINO-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/) [![IoT Sensors](https://img.shields.io/badge/IOT_SENSORS-%2320232a.svg?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/) |
-| <img src="https://api.iconify.design/fluent-emoji-flat:yellow-circle.svg" width="30" height="30" /><br><b>INSIGHT</b> | **Department of Insight**<br><sub>*(Core Logic & Algorithm Computation)*</sub> | [![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%230079C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/) [![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) |
-| <img src="https://api.iconify.design/fluent-emoji-flat:orange-circle.svg" width="30" height="30" /><br><b>SIMULATION</b> | **Interactive World & Tools**<br><sub>*(Station Engines & Dev Utilities)*</sub> | [![Unity](https://img.shields.io/badge/UNITY-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) [![Git](https://img.shields.io/badge/GIT-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/) |
+| Station Sector & Path | Research Domain | Deployed Technology Arsenal |
+| :--- | :--- | :--- |
+| 🔮 **Department of Insight**<br><sub>*(Path of The Erudition)*</sub> | **Holographic Frontend & UI**<br><sub>Simulated Universe Visual Interface</sub> | [![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://w3.org/html/) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://w3schools.com/css/) |
+| 📡 **Department of Revelation**<br><sub>*(Path of The Nihility)*</sub> | **Subspace Backends & APIs**<br><sub>Telemetry Relays & Communication</sub> | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) |
+| 🗄️ **Department of Ecology**<br><sub>*(Path of The Preservation)*</sub> | **Curio Vaults & Databases**<br><sub>Specimen Records & Memory Banks</sub> | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/) |
+| 🤖 **Department of Implement**<br><sub>*(Path of The Destruction)*</sub> | **Hardware, IoT & Robotics**<br><sub>Microcontroller Machinery & Sensors</sub> | [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/) [![IoT Sensors](https://img.shields.io/badge/IoT_Sensors-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://espressif.com/) [![Embedded](https://img.shields.io/badge/Embedded_Systems-24292e?style=flat-square&logo=micro-editor&logoColor=white)](https://github.com/) |
+| 🚀 **Curio Gallery & Systems**<br><sub>*(Path of The Elation)*</sub> | **Engines, Ops & Creative Tools**<br><sub>Interactive Simulation & Workflows</sub> | [![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/) |
 
 <br>
 
-<!-- Skill Icons Grid -->
+<!-- Skill Matrix -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vue,tailwind,bootstrap,nodejs,express&theme=dark" alt="Skill Icons Row 1" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vue,tailwind,bootstrap,nodejs,express&theme=dark" alt="Skills Row 1" />
   <br>
-  <img src="https://skillicons.dev/icons?i=cpp,arduino,unity,php,mysql,sqlite,mongodb,redis,graphql,postman,linux&theme=dark" alt="Skill Icons Row 2" />
+  <img src="https://skillicons.dev/icons?i=cpp,arduino,unity,php,mysql,sqlite,mongodb,redis,graphql,postman,linux&theme=dark" alt="Skills Row 2" />
   <br>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,figma,threejs,docker,vite,npm,bash,yarn&theme=dark" alt="Skill Icons Row 3" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,figma,threejs,docker,vite,npm,bash,yarn&theme=dark" alt="Skills Row 3" />
 </a>
 
 </div>
@@ -69,7 +75,9 @@ current_mission: "Running Simulated Universe experiments & crafting aesthetic UI
 
 ---
 
-### 📊 Station Telemetry & GitHub Matrix
+### 📊 Station Telemetry & Research Analytics
+
+> *"Data collection in progress across the simulated galaxies. Recording commit frequency, language resonance, and contribution streaks."*
 
 <p align="center">
   <a href="https://github.com/yuuuukoito">
@@ -92,5 +100,9 @@ current_mission: "Running Simulated Universe experiments & crafting aesthetic UI
 <br>
 
 <div align="center">
-  <sub><i>🛰️ Herta Space Station Terminal • Madame Herta's Research Archives • Maintained by <a href="https://github.com/yuuuukoito">@yuuuukoito</a></i></sub>
+  <p>
+    🔨 <b><i>"Kuru kuru~ Kuru rin~!"</i></b><br>
+    <sub>🛰️ <b>HERTA SPACE STATION CENTRAL ARCHIVES</b> • Maintained by <a href="https://github.com/yuuuukoito">@yuuuukoito</a> • Genius Society Subsystem</sub>
+  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,28,49,27,100,124,58,237,168,85,247,56,189,248&height=90&section=footer" width="100%" alt="Footer Wave" />
 </div>
