@@ -1,4 +1,4 @@
-name: Update Streak Stats
+name: Update Telemetry HUD & Streak Stats
 
 on:
   schedule:
@@ -9,13 +9,21 @@ permissions:
   contents: write
 
 jobs:
-  update-streak:
+  update-telemetry:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Fetch Latest Streak Stats SVG
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate Custom Telemetry HUD SVG
+        run: node scripts/generate_telemetry_hud.js
+
+      - name: Fetch Latest Streak Stats SVG Backup
         run: |
           curl -s -L "https://streak-stats.demolab.com/?user=yuuuukoito&background=09070f&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=ddd6fe&dates=c084fc&hide_border=false" -o assets/streak.svg
 
@@ -23,5 +31,5 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/streak.svg
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update streak stats" && git push)
+          git add assets/telemetry-hud.svg assets/streak.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update telemetry HUD & streak stats" && git push)

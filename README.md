@@ -149,19 +149,7 @@ DIAGNOSTIC      = "All subsystems nominal. Ready to deploy cosmic innovations."
 
 <p align="center">
   <a href="https://github.com/yuuuukoito">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=yuuuukoito&show_icons=true&bg_color=09070f&title_color=c084fc&text_color=ddd6fe&icon_color=a855f7&border_color=7c3aed&hide_border=false&custom_title=My%20GitHub%20Statistics" alt="GitHub Statistics" width="48.5%" />
-  </a>
-  <a href="https://github.com/yuuuukoito">
-    <img src="https://streak-stats.demolab.com/?user=yuuuukoito&background=09070f&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=ddd6fe&dates=c084fc&hide_border=false" alt="GitHub Streak" width="48.5%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yuuuukoito">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yuuuukoito&layout=compact&bg_color=09070f&title_color=c084fc&text_color=ddd6fe&border_color=7c3aed&hide_border=false&custom_title=My%20Programming%20Languages" alt="Programming Languages" width="48.5%" />
-  </a>
-  <a href="https://github.com/yuuuukoito">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yuuuukoito&layout=donut&bg_color=09070f&title_color=c084fc&text_color=ddd6fe&border_color=7c3aed&hide_border=false&custom_title=Language%20Distribution" alt="Language Distribution" width="48.5%" />
+    <img src="./assets/telemetry-hud.svg" width="100%" alt="Herta Space Station Telemetry & Research HUD" />
   </a>
 </p>
 
