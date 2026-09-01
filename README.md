@@ -149,16 +149,17 @@ DIAGNOSTIC      = "All subsystems nominal. Ready to deploy cosmic innovations."
 
 <p align="center">
   <a href="https://github.com/yuuuukoito">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=yuuuukoito&show_icons=true&bg_color=0d081c&title_color=c084fc&text_color=e9d5ff&icon_color=38bdf8&border_color=3b0764&hide_border=false&custom_title=%F0%9F%97%B8%20HSS%20Research%20Telemetry&border_radius=10" alt="GitHub Statistics" width="48.5%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=yuuuukoito&show_icons=true&bg_color=00000000&title_color=c084fc&text_color=e9d5ff&icon_color=38bdf8&hide_border=true&custom_title=%F0%9F%97%B8%20HSS%20Telemetry" alt="GitHub Statistics" height="165" />
   </a>
+  &nbsp;
   <a href="https://github.com/yuuuukoito">
-    <img src="https://streak-stats.demolab.com/?user=yuuuukoito&background=0d081c&border=3b0764&stroke=38bdf8&ring=c084fc&fire=fbbf24&currStreakLabel=c084fc&sideLabels=ddd6fe&dates=94a3b8&hide_border=false&border_radius=10" alt="GitHub Streak" width="48.5%" />
+    <img src="https://streak-stats.demolab.com/?user=yuuuukoito&background=00000000&stroke=38bdf8&ring=c084fc&fire=fbbf24&currStreakLabel=c084fc&sideLabels=ddd6fe&dates=94a3b8&hide_border=true" alt="GitHub Streak" height="165" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/yuuuukoito">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yuuuukoito&layout=compact&bg_color=0d081c&title_color=c084fc&text_color=e9d5ff&border_color=3b0764&hide_border=false&custom_title=%F0%9F%94%AE%20Language%20Resonance&border_radius=10" alt="Language Resonance" width="97.5%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yuuuukoito&layout=compact&bg_color=00000000&title_color=c084fc&text_color=e9d5ff&hide_border=true&custom_title=%F0%9F%94%AE%20Language%20Resonance" alt="Language Resonance" width="380" />
   </a>
 </p>
 
