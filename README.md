@@ -22,7 +22,7 @@
 </a>
 &nbsp;
 <a href="https://discord.gg/lilyamanee._33887" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-160D2E?style=for-the-badge&logo=discord&logoColor=C084FC" alt="Discord" />
+  <img src="https://img.shields.io/badge/Subspace-Discord-160D2E?style=for-the-badge&logo=discord&logoColor=C084FC" alt="Discord" />
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=yuuuukoito&label=Visitors&color=7C3AED&style=for-the-badge" alt="Profile Views" />
@@ -53,13 +53,80 @@ DIAGNOSTIC      = "All subsystems nominal. Ready to deploy cosmic innovations."
 
 <div align="center">
 
-| Station Sector & Path | Technical Curios & Deployed Arsenal |
-| :--- | :--- |
-| 🔮 **Department of Insight**<br><sub>*Holographic Web & UI Nexus*<br>*(Path of The Erudition)*</sub> | [![JavaScript](https://img.shields.io/badge/JavaScript-160D2E?style=for-the-badge&logo=javascript&logoColor=C084FC)](https://developer.mozilla.org/) [![HTML5](https://img.shields.io/badge/HTML5-160D2E?style=for-the-badge&logo=html5&logoColor=C084FC)](https://w3.org/html/) [![CSS3](https://img.shields.io/badge/CSS3-160D2E?style=for-the-badge&logo=css&logoColor=C084FC)](https://w3schools.com/css/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-160D2E?style=for-the-badge&logo=bootstrap&logoColor=C084FC)](https://getbootstrap.com/) [![Flutter](https://img.shields.io/badge/Flutter-160D2E?style=for-the-badge&logo=flutter&logoColor=C084FC)](https://flutter.dev) [![Chart.js](https://img.shields.io/badge/Chart.js-160D2E?style=for-the-badge&logo=chart.js&logoColor=C084FC)](https://www.chartjs.org) |
-| 📡 **Department of Revelation**<br><sub>*Subspace Backends & APIs*<br>*(Path of The Nihility)*</sub> | [![Node.js](https://img.shields.io/badge/Node.js-160D2E?style=for-the-badge&logo=node.js&logoColor=C084FC)](https://nodejs.org/) [![Express](https://img.shields.io/badge/Express-160D2E?style=for-the-badge&logo=express&logoColor=C084FC)](https://expressjs.com/) [![PHP](https://img.shields.io/badge/PHP-160D2E?style=for-the-badge&logo=php&logoColor=C084FC)](https://www.php.net/) |
-| 🗄️ **Department of Ecology**<br><sub>*Curio Vaults & Databases*<br>*(Path of The Preservation)*</sub> | [![MySQL](https://img.shields.io/badge/MySQL-160D2E?style=for-the-badge&logo=mysql&logoColor=C084FC)](https://www.mysql.com/) [![SQLite](https://img.shields.io/badge/SQLite-160D2E?style=for-the-badge&logo=sqlite&logoColor=C084FC)](https://www.sqlite.org/) |
-| 🤖 **Department of Implement**<br><sub>*Hardware, IoT & Sensor Systems*<br>*(Path of The Destruction)*</sub> | [![C++](https://img.shields.io/badge/C%2B%2B-160D2E?style=for-the-badge&logo=c%2B%2B&logoColor=C084FC)](https://isocpp.org/) [![Arduino](https://img.shields.io/badge/Arduino-160D2E?style=for-the-badge&logo=arduino&logoColor=C084FC)](https://www.arduino.cc/) [![IoT Sensors](https://img.shields.io/badge/IoT_Sensors-160D2E?style=for-the-badge&logo=espressif&logoColor=C084FC)](https://espressif.com/) |
-| 🚀 **Curio Gallery & Workspaces**<br><sub>*Simulation Engines & Dev Tools*<br>*(Path of The Elation)*</sub> | [![Unity](https://img.shields.io/badge/Unity-160D2E?style=for-the-badge&logo=unity&logoColor=C084FC)](https://unity.com/) [![Git](https://img.shields.io/badge/Git-160D2E?style=for-the-badge&logo=git&logoColor=C084FC)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-160D2E?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/) [![VS Code](https://img.shields.io/badge/VS_Code-160D2E?style=for-the-badge&logo=visual-studio-code&logoColor=C084FC)](https://code.visualstudio.com/) |
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="26%">STATION SUPERVISOR</th>
+      <th align="left" width="28%">STATION SECTOR & PATH</th>
+      <th align="left" width="46%">TECHNICAL ARSENAL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5" align="center" valign="middle">
+        <img src="./assets/herta.jpg" width="210" alt="Madame Herta" />
+        <br><br>
+        <sub><b>Madame Herta</b><br><i>Genius Society #83</i></sub>
+      </td>
+      <td>
+        🔮 <b>Department of Insight</b><br>
+        <sub>*Holographic Web & UI Nexus*<br>*(Path of The Erudition)*</sub>
+      </td>
+      <td>
+        <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-160D2E?style=for-the-badge&logo=javascript&logoColor=C084FC" alt="JavaScript" /></a>
+        <a href="https://w3.org/html/"><img src="https://img.shields.io/badge/HTML5-160D2E?style=for-the-badge&logo=html5&logoColor=C084FC" alt="HTML5" /></a>
+        <a href="https://w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-160D2E?style=for-the-badge&logo=css&logoColor=C084FC" alt="CSS3" /></a>
+        <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-160D2E?style=for-the-badge&logo=bootstrap&logoColor=C084FC" alt="Bootstrap" /></a>
+        <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-160D2E?style=for-the-badge&logo=flutter&logoColor=C084FC" alt="Flutter" /></a>
+        <a href="https://www.chartjs.org"><img src="https://img.shields.io/badge/Chart.js-160D2E?style=for-the-badge&logo=chart.js&logoColor=C084FC" alt="Chart.js" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        📡 <b>Department of Revelation</b><br>
+        <sub>*Subspace Backends & APIs*<br>*(Path of The Nihility)*</sub>
+      </td>
+      <td>
+        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-160D2E?style=for-the-badge&logo=node.js&logoColor=C084FC" alt="Node.js" /></a>
+        <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-160D2E?style=for-the-badge&logo=express&logoColor=C084FC" alt="Express" /></a>
+        <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-160D2E?style=for-the-badge&logo=php&logoColor=C084FC" alt="PHP" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        🗄️ <b>Department of Ecology</b><br>
+        <sub>*Curio Data Vaults*<br>*(Path of The Preservation)*</sub>
+      </td>
+      <td>
+        <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-160D2E?style=for-the-badge&logo=mysql&logoColor=C084FC" alt="MySQL" /></a>
+        <a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-160D2E?style=for-the-badge&logo=sqlite&logoColor=C084FC" alt="SQLite" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        🤖 <b>Department of Implement</b><br>
+        <sub>*Hardware, IoT & Sensors*<br>*(Path of The Destruction)*</sub>
+      </td>
+      <td>
+        <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-160D2E?style=for-the-badge&logo=c%2B%2B&logoColor=C084FC" alt="C++" /></a>
+        <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-160D2E?style=for-the-badge&logo=arduino&logoColor=C084FC" alt="Arduino" /></a>
+        <a href="https://espressif.com/"><img src="https://img.shields.io/badge/IoT_Sensors-160D2E?style=for-the-badge&logo=espressif&logoColor=C084FC" alt="IoT Sensors" /></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        🚀 <b>Curio Gallery & Workspaces</b><br>
+        <sub>*Simulation Engines & Tools*<br>*(Path of The Elation)*</sub>
+      </td>
+      <td>
+        <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-160D2E?style=for-the-badge&logo=unity&logoColor=C084FC" alt="Unity" /></a>
+        <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-160D2E?style=for-the-badge&logo=git&logoColor=C084FC" alt="Git" /></a>
+        <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-160D2E?style=for-the-badge&logo=github&logoColor=C084FC" alt="GitHub" /></a>
+        <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-160D2E?style=for-the-badge&logo=visual-studio-code&logoColor=C084FC" alt="VS Code" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
