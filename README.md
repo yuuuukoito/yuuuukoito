@@ -74,11 +74,11 @@ DIAGNOSTIC      = "All subsystems nominal. Ready to deploy cosmic innovations."
       </td>
       <td>
         <a href="https://developer.mozilla.org/"><img src="https://img.shields.io/badge/JavaScript-160D2E?style=for-the-badge&logo=javascript&logoColor=C084FC" alt="JavaScript" /></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-160D2E?style=for-the-badge&logo=typescript&logoColor=C084FC" alt="TypeScript" /></a>
+        <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-160D2E?style=for-the-badge&logo=next.js&logoColor=C084FC" alt="Next.js" /></a>
+        <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-160D2E?style=for-the-badge&logo=tailwindcss&logoColor=C084FC" alt="Tailwind CSS" /></a>
         <a href="https://w3.org/html/"><img src="https://img.shields.io/badge/HTML5-160D2E?style=for-the-badge&logo=html5&logoColor=C084FC" alt="HTML5" /></a>
         <a href="https://w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-160D2E?style=for-the-badge&logo=css&logoColor=C084FC" alt="CSS3" /></a>
-        <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-160D2E?style=for-the-badge&logo=bootstrap&logoColor=C084FC" alt="Bootstrap" /></a>
-        <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-160D2E?style=for-the-badge&logo=flutter&logoColor=C084FC" alt="Flutter" /></a>
-        <a href="https://www.chartjs.org"><img src="https://img.shields.io/badge/Chart.js-160D2E?style=for-the-badge&logo=chart.js&logoColor=C084FC" alt="Chart.js" /></a>
       </td>
     </tr>
     <tr>
@@ -89,7 +89,6 @@ DIAGNOSTIC      = "All subsystems nominal. Ready to deploy cosmic innovations."
       <td>
         <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-160D2E?style=for-the-badge&logo=node.js&logoColor=C084FC" alt="Node.js" /></a>
         <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-160D2E?style=for-the-badge&logo=express&logoColor=C084FC" alt="Express" /></a>
-        <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-160D2E?style=for-the-badge&logo=php&logoColor=C084FC" alt="PHP" /></a>
       </td>
     </tr>
     <tr>
@@ -132,7 +131,7 @@ DIAGNOSTIC      = "All subsystems nominal. Ready to deploy cosmic innovations."
 
 <!-- Skill Matrix -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,flutter,nodejs,express,php&theme=dark" alt="Skills Row 1" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,nextjs,nodejs,express&theme=dark" alt="Skills Row 1" />
   <br>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,cpp,arduino,unity,git,github,vscode&theme=dark" alt="Skills Row 2" />
 </a>
