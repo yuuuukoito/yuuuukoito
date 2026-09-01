@@ -17,7 +17,7 @@ jobs:
 
       - name: Fetch Latest Streak Stats SVG
         run: |
-          curl -s -L "https://streak-stats.demolab.com/?user=yuuuukoito&background=120e24&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=e9d5ff&dates=c084fc&hide_border=false" -o assets/streak.svg
+          curl -s -L "https://streak-stats.demolab.com/?user=yuuuukoito&background=09070f&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideLabels=ddd6fe&dates=c084fc&hide_border=false" -o assets/streak.svg
 
       - name: Commit and Push if Changed
         run: |

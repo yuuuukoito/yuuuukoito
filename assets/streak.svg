@@ -23,7 +23,7 @@
         </defs>
         <g clip-path='url(#outer_rectangle)'>
             <g style='isolation: isolate'>
-                <rect stroke='#7c3aed' fill='#120e24' rx='4.5' x='0.5' y='0.5' width='494' height='194'/>
+                <rect stroke='#7c3aed' fill='#09070f' rx='4.5' x='0.5' y='0.5' width='494' height='194'/>
             </g>
             <g style='isolation: isolate'>
                 <line x1='165' y1='28' x2='165' y2='170' vector-effect='non-scaling-stroke' stroke-width='1' stroke='#7c3aed' stroke-linejoin='miter' stroke-linecap='square' stroke-miterlimit='3'/>
@@ -39,7 +39,7 @@
 
                 <!-- Total Contributions label -->
                 <g transform='translate(82.5, 84)'>
-                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#e9d5ff' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.7s'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ddd6fe' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.7s'>
                         Total Contributions
                     </text>
                 </g>
@@ -94,7 +94,7 @@
 
                 <!-- Longest Streak label -->
                 <g transform='translate(412.5, 84)'>
-                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#e9d5ff' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.3s'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ddd6fe' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='14px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 1.3s'>
                         Longest Streak
                     </text>
                 </g>
